@@ -121,7 +121,7 @@ function agregarFiltros(){
  *
  */
 function quitarFiltros(){
-    let banner=document.getElementById("video");
+    let banner=document.getElementById("messi");
     let galeria=document.getElementById("galeria");
     let footer=document.getElementById("footer");
     let formulario=document.getElementById("div-formulario");
