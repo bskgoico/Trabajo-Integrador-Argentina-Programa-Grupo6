@@ -107,7 +107,7 @@ function cerrarCarrito(){
  * Funcion que le agrega filtros a la pagina para que el carrito se vea mas claramente
  */
 function agregarFiltros(){
-    let banner=document.getElementById("video");
+    let banner=document.getElementById("messi");
     let galeria=document.getElementById("galeria");
     let footer=document.getElementById("footer");
     let formulario=document.getElementById("div-formulario");
