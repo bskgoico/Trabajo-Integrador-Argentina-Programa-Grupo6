@@ -1,7 +1,7 @@
 import { arrayJuegosInicial} from "../baseDeDatos/baseDatos.js";
 import {crearDivsJuegos} from "../funcionesGaleriaJuegos/funcionesGaleria.js";
 import {actualizarBotonCompra} from "../funcionesCarrito/funcionesCarrito.js";
-let arrayJuegos=arrayJuegosInicial;
+let arrayJuegos = arrayJuegosInicial;
 /*
     Funcion que elimina todos los divs presentes de juegos en la galeria, los que esten en
     el "arrayJuegos".
